@@ -1,1 +1,1 @@
-# CryptoverseZombiesClub.github.io
+# Cryptoverse Zombies Club
