@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Zombie #0101",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Specs",
+      "head": "MetaMask",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #0139",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "One-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #0145",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Regular",
+      "head": "Ponytail",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #0370",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Popped",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #0394",
+    "props": {
+      "eye_color": "Indigo",
+      "eyes": "Squint",
+      "head": "Faux Hawk",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #0492",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Specs",
+      "head": "Faux Hawk",
+      "outfit": "Army Greens",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #0637",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Specs",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #0670",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Squinched",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #0831",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Lashed",
+      "head": "Beret Cap",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #0937",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Squinched",
+      "head": "Side Fringe",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #1005",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Squint",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #1061",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Specs",
+      "head": "Ethmas Cap",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #1107",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "One-Eyed",
+      "head": "Ponytail",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #1130",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Shady",
+      "head": "Beret Cap",
+      "outfit": "Army Greens",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #1303",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Popped",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #1389",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Sunken",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Theta"
+    }
+  },
+  {
+    "name": "Zombie #1540",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Regular",
+      "head": "Ponytail",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Theta"
+    }
+  },
+  {
+    "name": "Zombie #1886",
+    "props": {
+      "eye_color": "Red",
+      "eyes": "Frowning",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Sphinx",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #2093",
+    "props": {
+      "eye_color": "Red",
+      "eyes": "Black-Eyed",
+      "head": "Wavy Bob",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #2156",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Black-Eyed",
+      "head": "Wavy Bob",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #2160",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Popped",
+      "head": "Beret Cap",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #2347",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Black-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #2348",
+    "props": {
+      "eye_color": "Indigo",
+      "eyes": "Specs",
+      "head": "Wavy Bob",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #2503",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Frowning",
+      "head": "Faux Hawk",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #2563",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Shady",
+      "head": "Ethmas Cap",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Theta"
+    }
+  },
+  {
+    "name": "Zombie #2655",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Lashed",
+      "head": "Wavy Bob",
+      "outfit": "Army Greens",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #2746",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "One-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #2848",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Frowning",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #2884",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squinched",
+      "head": "Side Fringe",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #2987",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Regular",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #3147",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "One-Eyed",
+      "head": "Wavy Bob",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #3202",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Regular",
+      "head": "Combat Helmet",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #3903",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squint",
+      "head": "Side Fringe",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #3921",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Frowning",
+      "head": "Ponytail",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #4028",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Specs",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #4070",
+    "props": {
+      "eye_color": "Red",
+      "eyes": "Squinched",
+      "head": "Combat Helmet",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #4292",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "One-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #4487",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Black-Eyed",
+      "head": "Side Fringe",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #4731",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Frowning",
+      "head": "Side Fringe",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #4888",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Black-Eyed",
+      "head": "Side Fringe",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #4896",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "One-Eyed",
+      "head": "Ponytail",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #4918",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Squinched",
+      "head": "Ethmas Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #4977",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Squint",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #5034",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Black-Eyed",
+      "head": "Side Fringe",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #5067",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Lashed",
+      "head": "Wavy Bob",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #5189",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Frowning",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #5280",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Regular",
+      "head": "Beret Cap",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #5440",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squinched",
+      "head": "Ponytail",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #5561",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Sunken",
+      "head": "Ponytail",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #5602",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Frowning",
+      "head": "Side Fringe",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #5670",
+    "props": {
+      "eye_color": "Indigo",
+      "eyes": "Squinched",
+      "head": "Side Fringe",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #5726",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Squint",
+      "head": "Combat Helmet",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #5802",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Specs",
+      "head": "Side Fringe",
+      "outfit": "Army Greens",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #5859",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Frowning",
+      "head": "Ponytail",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #5880",
+    "props": {
+      "eye_color": "Red",
+      "eyes": "Lashed",
+      "head": "Side Fringe",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #5931",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Frowning",
+      "head": "Beret Cap",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #6005",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Squint",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Lambda"
+    }
+  },
+  {
+    "name": "Zombie #6149",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Specs",
+      "head": "Wavy Bob",
+      "outfit": "Police Uniform",
+      "type": "Sphinx",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #6162",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Squint",
+      "head": "Wavy Bob",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #6173",
+    "props": {
+      "eye_color": "Magenta",
+      "eyes": "Black-Eyed",
+      "head": "Ponytail",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #6184",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Squinched",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Lambda"
+    }
+  },
+  {
+    "name": "Zombie #6280",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Black-Eyed",
+      "head": "Side Fringe",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #6361",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squinched",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #6408",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Black-Eyed",
+      "head": "Ethmas Cap",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #6449",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squint",
+      "head": "Wavy Bob",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #6572",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Shady",
+      "head": "Wavy Bob",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #6626",
+    "props": {
+      "eye_color": "Indigo",
+      "eyes": "Black-Eyed",
+      "head": "Ethmas Cap",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #6687",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Regular",
+      "head": "Combat Helmet",
+      "outfit": "Red Dress",
+      "type": "Sphinx",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #6813",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "One-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "Police Uniform",
+      "type": "Sphinx",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #6837",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Black-Eyed",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #6932",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Regular",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #7040",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Shady",
+      "head": "Ponytail",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #7177",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Squinched",
+      "head": "Side Fringe",
+      "outfit": "Police Uniform",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #7205",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Popped",
+      "head": "Combat Helmet",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #7262",
+    "props": {
+      "eye_color": "Chartreuse",
+      "eyes": "Squinched",
+      "head": "Faux Hawk",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #7318",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Shady",
+      "head": "Ponytail",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #7773",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "One-Eyed",
+      "head": "Side Fringe",
+      "outfit": "Red Dress",
+      "type": "Sphinx",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #7797",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Regular",
+      "head": "Side Fringe",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #7824",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squint",
+      "head": "Combat Helmet",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #7938",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Squint",
+      "head": "Faux Hawk",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #7995",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "One-Eyed",
+      "head": "Ponytail",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #8015",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Squint",
+      "head": "Combat Helmet",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Eta"
+    }
+  },
+  {
+    "name": "Zombie #8062",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Specs",
+      "head": "Wavy Bob",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #8136",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Frowning",
+      "head": "Ponytail",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #8206",
+    "props": {
+      "eye_color": "Indigo",
+      "eyes": "Popped",
+      "head": "Wavy Bob",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  },
+  {
+    "name": "Zombie #8377",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Lashed",
+      "head": "Ponytail",
+      "outfit": "White Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #8441",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Lashed",
+      "head": "Beret Cap",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Epsilon"
+    }
+  },
+  {
+    "name": "Zombie #8596",
+    "props": {
+      "eye_color": "Orchid",
+      "eyes": "Squint",
+      "head": "Side Fringe",
+      "outfit": "White Dress",
+      "type": "Sphinx",
+      "variant": "Gamma"
+    }
+  },
+  {
+    "name": "Zombie #8820",
+    "props": {
+      "eye_color": "Lime",
+      "eyes": "Regular",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #8932",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Specs",
+      "head": "Side Fringe",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #8990",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Sunken",
+      "head": "Side Fringe",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Beta"
+    }
+  },
+  {
+    "name": "Zombie #8993",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Frowning",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Sphinx",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #9117",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Lashed",
+      "head": "Beret Cap",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Theta"
+    }
+  },
+  {
+    "name": "Zombie #9122",
+    "props": {
+      "eye_color": "Red",
+      "eyes": "Regular",
+      "head": "Combat Helmet",
+      "outfit": "Red Dress",
+      "type": "Human",
+      "variant": "Theta"
+    }
+  },
+  {
+    "name": "Zombie #9136",
+    "props": {
+      "eye_color": "Seafoam",
+      "eyes": "Specs",
+      "head": "Ponytail",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Lambda"
+    }
+  },
+  {
+    "name": "Zombie #9212",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Squinched",
+      "head": "Faux Hawk",
+      "outfit": "Red Dress",
+      "type": "Sphinx",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #9349",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Shady",
+      "head": "Beret Cap",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Alpha"
+    }
+  },
+  {
+    "name": "Zombie #9536",
+    "props": {
+      "eye_color": "Lapis",
+      "eyes": "Regular",
+      "head": "Combat Helmet",
+      "outfit": "Lab Coat",
+      "type": "Sphinx",
+      "variant": "Lambda"
+    }
+  },
+  {
+    "name": "Zombie #9715",
+    "props": {
+      "eye_color": "Yellow",
+      "eyes": "Regular",
+      "head": "Faux Hawk",
+      "outfit": "White Shirt",
+      "type": "Human",
+      "variant": "Zeta"
+    }
+  },
+  {
+    "name": "Zombie #9739",
+    "props": {
+      "eye_color": "Sky Blue",
+      "eyes": "Sunken",
+      "head": "Combat Helmet",
+      "outfit": "Lab Coat",
+      "type": "Human",
+      "variant": "Delta"
+    }
+  }
+]
